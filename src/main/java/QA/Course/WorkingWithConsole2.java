@@ -6,7 +6,7 @@ public class WorkingWithConsole2
 
 
         weekDay(2);
-       rectangle(2, 3);
+        rectangle(2, 3);
     }
     public static void rectangle (int a, int b)
     {
@@ -15,7 +15,6 @@ public class WorkingWithConsole2
         int Area = a*b;
         System.out.println("The Area is:"  + Area);
     }
-
 
 
 
