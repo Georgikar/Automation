@@ -7,8 +7,7 @@ public class Person extends Mamal {
 
 
 
-
-    }
+}
 
 
 

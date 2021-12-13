@@ -2,25 +2,24 @@ package Animal;
 
 public class Mamal {
 
-    String name;
+    private String name;
 
     public String getName() {
         return name;
     }
 
-    public void setName(String name) {
-       return name;
+    public String setName(String name) {
+
+        return name;
     }
 
-    public Mamal(String name) {
-       setName(name);
-    }
 
 
 
     protected void eat() {
-        String food = "";
+        String food = "Burgers";
 
-        System.out.print(getName() + "eats" + food);
+
     }
+
 }
