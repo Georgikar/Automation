@@ -15,7 +15,7 @@ p1.setName("Georgi");
 p2.setName("Ivan");
 
 
-        System.out.print(p1.getName() + "eats" + food);
+        p1.eat();
     }
 
 

@@ -19,7 +19,7 @@ public class Mamal {
     protected void eat() {
         String food = "Burgers";
 
-
+System.out.println(getName()+ "eats"+ this.eat());
     }
 
 }
