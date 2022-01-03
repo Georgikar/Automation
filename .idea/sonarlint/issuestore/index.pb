@@ -11,5 +11,3 @@ M
 src/main/java/Human/Test.java,9\d\9dac622f0d752cb175d55e37a81f896f3d01a3ef
 O
 src/main/java/Human/Person.java,a\7\a75bd41b204ece40bbfe2cd2b059ee1d6a3a66d0
-O
-src/main/java/Animal/Mamal.java,1\a\1a467dc74d9e97a50f9f94d44df19c5cbebe1a26
