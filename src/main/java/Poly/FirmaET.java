@@ -2,6 +2,8 @@ package Poly;
 
 public class FirmaET extends Company implements Invoice {
 
+
+
 private String nameoffounder;
 private double primarycapital;
 private double actualcapital;
@@ -34,12 +36,13 @@ private double actualcapital;
     }
 
     public void setActualcapital(double actualcapital) {
+
         this.actualcapital = actualcapital;
     }
 
-    public void setprofit(double profit) {
-        profit = this.actualcapital - this.primarycapital;
-        System.out.println("has profit" + profit);
+
+    public void setprofit() {
+        double profit = this.actualcapital - this.primarycapital;
     }
 
 

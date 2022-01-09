@@ -11,3 +11,5 @@ M
 src/main/java/Human/Test.java,9\d\9dac622f0d752cb175d55e37a81f896f3d01a3ef
 O
 src/main/java/Human/Person.java,a\7\a75bd41b204ece40bbfe2cd2b059ee1d6a3a66d0
+X
+(src/main/java/Mathexercises/MathMax.java,7\c\7c116a9b0818bac39d06c8a407e0a9974acbf61d
